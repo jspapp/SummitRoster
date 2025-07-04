@@ -3,7 +3,6 @@
 Simple and unobtrusive view to show you and your friends' progress.
 
 ![Screenshot showing a sidebar on the left edge of the screen. The sidebar has markers that display users' names and their height.](https://i.imgur.com/QNod4qj.jpeg)
-![Screenshot showing a sidebar on the left edge of the screen. The sidebar has markers that display users' names and their height.](https://i.imgur.com/QNod4qj.jpeg)
 
 ## Installation
 The `plugins/` folder can be dropped right into `PEAK/Bepinex/` (or the contents of `plugins/` can be moved into `PEAK/Bepinex/plugins/`, same thing.)
